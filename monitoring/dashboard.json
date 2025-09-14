@@ -1,0 +1,12 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Quantum AI Monitoring",
+    "tags": [],
+    "timezone": "browser",
+    "panels": [],
+    "schemaVersion": 36,
+    "version": 0,
+    "refresh": "5s"
+  }
+}
